@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "縋った恋に、サヨナラを。",
+  "base_artist": "まつり",
+  "createdAt": "2025-12-23T06:08:07.488569Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "縋った恋に、サヨナラを。",
+      "artist": "まつり",
+      "has_synced": false,
+      "path": "select/pl_01_縋った恋に、サヨナラを。_まつり.txt"
+    }
+  ]
+}
